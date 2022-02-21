@@ -6,6 +6,8 @@ Then, I started my degree in Graphic Design at UNIDAVI – University Center for
 
 My hobbies are bodybuilding, cycling, football, blogging.
 
+👨‍💻 Working in Overall.Cloud (Marketing e Development).
+
 👀 I’m interested in #tecnology #development.
 
 🌱 I’m currently learning Full Stack languages, and #DevOps roadmap.
