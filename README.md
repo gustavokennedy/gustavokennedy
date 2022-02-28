@@ -47,8 +47,7 @@ My hobbies are bodybuilding, cycling, football, blogging.
 📫 How to reach me on gu.sta.vo@hotmail.com
  
  
-  <h3> Visitantes </h3>  
-
+### Views 
  <div>
 
   <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=gustavokennedy&color=green" alt="gustavokennedy" /> <br>
