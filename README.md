@@ -6,12 +6,18 @@ Then, I started my degree in Graphic Design at UNIDAVI – University Center for
 
 My hobbies are bodybuilding, cycling, football, blogging.
 
+👨‍💻 Working in Overall.Cloud (Marketing e Development).
+
+👀 I’m interested in #tecnology #development.
+
+🌱 I’m currently learning Full Stack languages, and #DevOps roadmap.
+
+📫 How to reach me on gu.sta.vo@hotmail.com
+
  <div>   
 
  <a href="https://discord.com/users/8233" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"    target="_blank"></a> <a href="mailto:gu.sta.vo@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/gustavokennedy/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://api.whatsapp.com/send?phone=5547991423831" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-
-                                           
-
+                             
  <br>
 
 <div>
@@ -37,15 +43,6 @@ My hobbies are bodybuilding, cycling, football, blogging.
 
 #### Others
 <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/github_full.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/git.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/google_analytics.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/wordpress.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/visualstudio.svg" width="40" height="40"/>
-
-👨‍💻 Working in Overall.Cloud (Marketing e Development).
-
-👀 I’m interested in #tecnology #development.
-
-🌱 I’m currently learning Full Stack languages, and #DevOps roadmap.
-
-📫 How to reach me on gu.sta.vo@hotmail.com
- 
  
 ### Views 
  <div>
