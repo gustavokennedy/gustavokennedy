@@ -51,6 +51,6 @@ My hobbies are bodybuilding, cycling, football, blogging.
 
  <div>
 
-  <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=gustavokennedy&color=green" alt="alexsgross" /> <br>
+  <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=gustavokennedy&color=green" alt="gustavokennedy" /> <br>
 
  </div>  
