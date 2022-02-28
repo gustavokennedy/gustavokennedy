@@ -45,3 +45,12 @@ My hobbies are bodybuilding, cycling, football, blogging.
 🌱 I’m currently learning Full Stack languages, and #DevOps roadmap.
 
 📫 How to reach me on gu.sta.vo@hotmail.com
+ 
+ 
+  <h3> Visitantes </h3>  
+
+ <div>
+
+  <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=alexsgross&color=green" alt="alexsgross" /> <br>
+
+ </div>  
