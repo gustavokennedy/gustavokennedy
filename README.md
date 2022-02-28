@@ -8,12 +8,7 @@ My hobbies are bodybuilding, cycling, football, blogging.
 
 ### Tools and Frameworks
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/aws.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/github_full.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/google_analytics.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/javascript_1.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/aws.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/github_full.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/google_analytics.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/javascript_1.svg" width="40" height="40"/>
 
 
 
