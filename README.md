@@ -8,10 +8,17 @@ My hobbies are bodybuilding, cycling, football, blogging.
 
 ### Tools and Frameworks
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/aws.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/github_full.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/google_analytics.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/javascript_1.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/mysql.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/nginx.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/nodejs.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/npm.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/react.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/terminal.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/ubuntu.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/wordpress.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/visualstudio.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/css3_full.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/docker.svg" width="40" height="40"/>
+#### Frontend
+<img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/javascript_1.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/react.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/npm.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/css3_full.svg" width="40" height="40"/>
 
+#### Backend
+<img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/mysql.svg" width="40" height="40"/>
 
+#### DevOps
+<img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/linux.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/aws.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/nginx.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/nodejs.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/terminal.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/docker.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/ubuntu.svg" width="40" height="40"/>
 
+#### Others
+<img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/github_full.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/git.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/google_analytics.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/wordpress.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/visualstudio.svg" width="40" height="40"/>
 
 👨‍💻 Working in Overall.Cloud (Marketing e Development).
 
