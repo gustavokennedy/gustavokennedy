@@ -33,8 +33,6 @@ My hobbies are bodybuilding, cycling, football, blogging.
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavokennedy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokennedy&layout=compact&langs_count=7&theme=dark"/>
-  
-  <a href="https://app.daily.dev/gukennedy"><img src="https://api.daily.dev/devcards/8f2eb094745f46178de87f69a6313131.png?r=zgn" width="400" alt="Gustavo Kennedy Renkel's Dev Card"/></a>
 
 </div> <br>
 
