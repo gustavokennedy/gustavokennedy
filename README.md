@@ -1,4 +1,4 @@
-<h1><b>Hi there 👋<b/></h1> 
+<h1><b>Hi there 👋</b></h1> 
 
 I'm Gustavo Kennedy Renkel. I was born in the 90's, from an exemplary family structure, my parents taught me values ​​that I always carry with me, which are humility, courage and respect. In my childhood I always liked to create things and to take risks (dangerous games). Since I was little, something always fascinated me, “how can people create amazing things?”.
 
@@ -25,7 +25,7 @@ My hobbies are bodybuilding, cycling, football, blogging.
  <a href="https://blog.renkel.com.br"><img src="https://img.shields.io/website?down_message=Offline&style=flat-square&up_message=Online&url=https%3A%2F%2Fblog.renkel.com.br"></a>
                              
  <br>
-
+ <h3> Status Git:</h3>
 <div>
 
  <a href="https://github.com/gustavokennedy/">
