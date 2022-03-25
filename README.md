@@ -12,7 +12,7 @@ My hobbies are bodybuilding, cycling, football, blogging.
 
 👀 I’m interested in #tecnology #development.
 
-🌱 I’m currently learning Full Stack languages, and #DevOps roadmap.
+🌱 I’m currently learning Golang, and #DevOps roadmap.
 
 📫 How to reach me on gu.sta.vo@hotmail.com and <a href="https://blog.renkel.com.br">my blog.</a>
 
