@@ -8,7 +8,7 @@ Then, I started my degree in Graphic Design at UNIDAVI – University Center for
 
 My hobbies are bodybuilding, cycling, football, blogging.
 
-👨‍💻 Working in <a href="https://overall.cloud">Overall.Cloud</a> (Marketing e Development).
+👨‍💻 Working in <a href="https://overall.cloud">Overall.Cloud</a> and <a href="https://aivo.co">Aivo (Argentina)</a>.
 
 👀 I’m interested in #tecnology #development.
 
