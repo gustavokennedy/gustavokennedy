@@ -8,11 +8,11 @@ Then, I started my degree in Graphic Design at UNIDAVI – University Center for
 
 My hobbies are bodybuilding, cycling, football, blogging.
 
-👨‍💻 Working in Overall.Cloud (Marketing e Development).
+👨‍💻 Working in <a href="https://overall.cloud">Overall.Cloud</a> (Marketing e Development).
 
 👀 I’m interested in #tecnology #development.
 
-🌱 I’m currently learning Golang, and #DevOps roadmap.
+🌱 I’m currently learning #Golang and #DevOps roadmap.
 
 📫 How to reach me on gu.sta.vo@hotmail.com and <a href="https://blog.renkel.com.br">my blog.</a>
 
