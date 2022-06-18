@@ -39,18 +39,39 @@ My hobbies are bodybuilding, cycling, football, blogging.
 ### Tools and Frameworks
 
 #### Frontend
-<img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/javascript_1.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/react.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/npm.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/css3_full.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+           <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/react.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/npm.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/css3_full.svg" width="40" height="40"/>
 
 #### Backend
-<img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/nodejs.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/mysql.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" width="40" height="40"/>
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" />         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" width="40" height="40" />
 
 #### DevOps
-<img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/linux.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/aws.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/nginx.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/terminal.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/docker.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/ubuntu.svg" width="40" height="40"/>
-
-#### Others
-<img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/github_full.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/git.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/google_analytics.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/wordpress.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/visualstudio.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="40" height="40" />
+          
+#### Database
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" />
  
+#### Monitoring
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" width="40" height="40" /> 
+          
+#### Others
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40" />
+          
+          
 ### Views 
  <div>
 
