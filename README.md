@@ -25,7 +25,7 @@ My hobbies are bodybuilding, cycling, football, blogging.
  <br>
  
  <h3>Status Blog:</h3>
- <a href="https://blog.renkel.com.br"><img src="https://img.shields.io/website?down_message=Offline&style=flat-square&up_message=Online&url=https%3A%2F%2Fblog.renkel.com.br"></a>
+ <a href="https://blog.renkel.com.br"><img src="https://img.shields.io/website?down_message=Offline&style=flat-square&up_message=Online&url=renkel.com.br"></a>
                              
  <br>
  <h3> Status Git:</h3>
