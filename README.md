@@ -14,7 +14,7 @@ My hobbies are bodybuilding, cycling, football, blogging.
 
 🌱 I’m currently learning #Golang and #DevOps roadmap.
 
-📫 How to reach me on gu.sta.vo@hotmail.com and <a href="https://blog.renkel.com.br">my blog.</a>
+📫 How to reach me on gu.sta.vo@hotmail.com and <a href="https://renkel.com.br">my blog.</a>
 
  <div>   
 
