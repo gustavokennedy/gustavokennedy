@@ -54,9 +54,11 @@
           
 #### Backend
  
- [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy) 
-  [![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy) 
-  [![Laravel]( https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy) 
+[![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy) 
+[![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy) 
+[![Laravel]( https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy) 
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy) 
+
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
