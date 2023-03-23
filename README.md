@@ -72,14 +72,27 @@
  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy)
  [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy)
  
-#### Monitoring
+#### Monitoring/Analytics
+ [![GA](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white
+&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy)
+ [![HOTJAR](https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" width="40" height="40" /> 
           
+#### Workflow  
+[![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy)
+[![JENKINS](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy)
+ 
+#### IDE
+[![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy)
+[![INTELLI](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy)
+ 
 #### Others
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40" />
-          
+
+ [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy)
+[![TMUX](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy)
+ 
+ 
           
 ### Views 
  <div>
