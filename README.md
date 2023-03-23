@@ -10,7 +10,7 @@
 
 👨‍💻 Working in <a href="https://overall.cloud">Overall.Cloud</a> and <a href="https://aivo.co">Aivo</a>.
  
-🤩 Contributing to <a href="https://github.com/mautic/user-documentation">Mautic</a>
+🤩 Contributing to <a href="https://github.com/mautic/user-documentation">Mautic</a>.
 
 👀 I’m interested in #tecnology #development.
 
