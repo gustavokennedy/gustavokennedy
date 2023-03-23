@@ -14,7 +14,7 @@
 
 🌱 I’m currently learning #Golang #Python and #DevOps roadmap.
 
-📫 How to reach me on gu.sta.vo@hotmail.com and <a href="https://renkel.com.br">my blog.</a>
+📫 Reach me on gu.sta.vo@hotmail.com and <a href="https://renkel.com.br">my blog.</a>
 
  <div>   
 
