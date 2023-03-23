@@ -42,7 +42,7 @@
 ### Tools and Frameworks
 
 #### Prototype
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy) 
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy) 
           
 #### Frontend
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy) 
