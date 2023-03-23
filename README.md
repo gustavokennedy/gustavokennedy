@@ -70,6 +70,10 @@
  [![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy)
   [![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy)      
           
+#### Servers 
+[![JENKINS](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy)
+ [![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy)
+ 
 #### Database
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy)
  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy)
@@ -83,7 +87,7 @@
           
 #### Workflow  
 [![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy)
-[![JENKINS](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy)
+
  
 #### IDE
 [![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy)
