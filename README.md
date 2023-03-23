@@ -41,8 +41,6 @@
 
 ### Tools and Frameworks
 
- 
- <img src="https://img.shields.io/badge/-React-black?style=flat&logo=react">
 #### Prototype
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
           
