@@ -58,7 +58,7 @@
 [![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy) 
 [![Laravel]( https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy) 
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy) 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy) 
+[![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy) 
  
 #### DevOps
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy) 
