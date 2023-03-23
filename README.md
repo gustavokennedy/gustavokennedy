@@ -68,9 +68,7 @@
 #### IaC 
 
  [![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy)
- 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" width="40" height="40" />          
+  [![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy)      
           
 #### Database
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy)
