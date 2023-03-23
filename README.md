@@ -1,6 +1,4 @@
-<h1><b>Hi there 👋</b></h1> 
-
-<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+<h1><b>Hi there <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></b></h1> 
 
 <samp>I'm Gustavo Kennedy Renkel. I was born in the 90's, from an exemplary family structure, my parents taught me values ​​that I always carry with me, which are humility, courage and respect. In my childhood I always liked to create things and to take risks (dangerous games). Since I was little, something always fascinated me, “how can people create amazing things?”.
 
