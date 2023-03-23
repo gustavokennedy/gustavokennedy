@@ -42,7 +42,7 @@
 ### Tools and Frameworks
 
 #### Prototype
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy) 
           
 #### Frontend
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy) 
