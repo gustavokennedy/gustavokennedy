@@ -90,7 +90,8 @@
 
  [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy)
 [![TMUX](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy)
- 
+ [![Intel](https://img.shields.io/badge/Intel-Core_i5_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white
+&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy)
  
           
 ### Views 
