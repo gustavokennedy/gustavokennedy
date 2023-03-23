@@ -73,8 +73,8 @@
  [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy)
  
 #### Monitoring/Analytics
-[![GA](https://img.shields.io/badge/Google%20Analytics-E37400&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy)
- [![HOTJAR](https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy)
+[![Google](https://img.shields.io/badge/Google%20Analytics-E37400)](https://github.com/gustavokennedy)
+[![HOTJAR](https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" width="40" height="40" /> 
           
