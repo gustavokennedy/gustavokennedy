@@ -46,10 +46,10 @@
           
 #### Frontend
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy) 
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy) 
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy) 
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy) 
+[![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy) 
           
 #### Backend
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
