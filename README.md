@@ -82,8 +82,8 @@
 #### Monitoring/Analytics
 [![Google](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy)
 [![HOTJAR](https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" width="40" height="40" /> 
+ [![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy)
+  [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy)
           
 #### Workflow  
 [![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white&link=https://github.com/gustavokennedy)](https://github.com/gustavokennedy)
