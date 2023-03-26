@@ -26,7 +26,7 @@
 <!-- <a href="https://twitter.com/GustavoRenkel" target="_blank"><img src="https://img.shields.io/twitter/follow/GustavoRenkel?style=for-the-badge">-->
  <br>
  
- <h3>Status Blog:</h3>
+ <h3>Status Site/Blog:</h3>
  <a href="https://renkel.com.br"><img src="https://img.shields.io/website?down_message=Offline&style=flat-square&up_message=Online&url=https://renkel.com.br"></a>
                              
  <br>
