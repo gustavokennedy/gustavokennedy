@@ -8,7 +8,7 @@
 
 <samp>My hobbies are bodybuilding, cycling, football, blogging.</samp>
 
-👨‍💻 Working in <a href="https://overall.cloud">Overall.Cloud</a> and <a href="https://aivo.co">Aivo</a>.
+👨‍💻 Working in <a href="https://overall.cloud">Overall.Cloud</a>.
  
 🤩 Contributing to <a href="https://github.com/mautic/user-documentation">Mautic</a>.
 
