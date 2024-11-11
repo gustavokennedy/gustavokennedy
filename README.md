@@ -1,6 +1,15 @@
 <h1><b>Hi there <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></b></h1> 
 👨‍💻 Working in <a href="https://overall.cloud">Overall.Cloud</a>.
 <br><br>
+
+<div>
+ <h3>Contribuições</h3>
+ <ul>
+  <li><a href="https://github.com/nginx/nginx/pull/302/commits" target="_Blank">nginx</li>
+  <li><a href="https://github.com/nfephp-org/sped-da/commit/1f01266cf78fb3cb61ffb87882ae98693116cb27" target="_Blank">nfephp-org/sped-da</a></li>
+ </ul>
+</div>
+
  <div>   
    <h3> Social</h3>
  <a href="mailto:gu.sta.vo@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/gustavokennedy/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://api.whatsapp.com/send?phone=5547991423831" target="_blank">
