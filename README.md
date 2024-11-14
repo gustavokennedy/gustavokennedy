@@ -5,6 +5,7 @@
 <div>
  <h3>Contribuições</h3>
  <ul>
+  <li><a href="https://github.com/golangbr/golangbr.org/pull/26" target="_Blank">golangbr.org</a></li>
   <li><a href="https://github.com/nginx/nginx/pull/302/commits" target="_Blank">nginx (C) - Core: Configurable log message limit</li>
   <li><a href="https://github.com/nfephp-org/sped-da/commit/1f01266cf78fb3cb61ffb87882ae98693116cb27" target="_Blank">nfephp-org/sped-da (PHP) - Inclusão de títulos no PDF</a></li>
  </ul>
