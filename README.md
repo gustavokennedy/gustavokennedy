@@ -27,7 +27,7 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gustavokennedy&locale=pt_BR" alt="GitHub Streak" /></a>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokennedy&layout=compact&langs_count=7&theme=dark"/>
  <h3>GitHub Trophies</h3>
-<a href="https://renkel.com.br"><img src="https://github-profile-trophy.vercel.app/?username=gustavokennedy&theme=light&margin-w=5&margin-h=5&title=-Experience"/></a>    
+<a href="https://renkel.com.br"><img src="https://github-profile-trophy.vercel.app/?username=gustavokennedy&theme=light&margin-w=5&margin-h=5&title=-Experience&rank=-?"/></a>    
 </div> 
  <h3>Status Site/Blog</h3>
  <a href="https://renkel.com.br"><img src="https://img.shields.io/website?down_message=Offline&style=flat-square&up_message=Online&url=https://renkel.com.br"></a>
