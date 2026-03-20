@@ -16,7 +16,6 @@
    <h3> Social</h3>
  <a href="mailto:gu.sta.vo@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/gustavokennedy/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://api.whatsapp.com/send?phone=5547991423831" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-<a href="https://discord.com/users/8233" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"    target="_blank"></a> 
 <!-- <a href="https://twitter.com/GustavoRenkel" target="_blank"><img src="https://img.shields.io/twitter/follow/GustavoRenkel?style=for-the-badge">-->
  <br>
                         
@@ -25,8 +24,6 @@
 <div>
 
  <a href="https://github.com/gustavokennedy/">
- <a href="https://renkel.com.br"><img src="https://github-profile-trophy.vercel.app/?username=gustavokennedy&theme=light&margin-w=5&margin-h=5&title=-Experience&rank=-?"/></a>    
-
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gustavokennedy&locale=pt_BR" alt="GitHub Streak" /></a>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokennedy&layout=compact&langs_count=7&theme=dark"/>
 <br />
