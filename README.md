@@ -1,5 +1,5 @@
 <h1><b>Hi there <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></b></h1> 
-👨‍💻 Working in <a href="https://www.accenture.com/br-pt">Acccenture Brasil</a> e <a href="https://overall.cloud">Overall.Cloud</a>.
+👨‍💻 Working in <a href="https://www.accenture.com/br-pt">Accenture Brasil</a> e <a href="https://overall.cloud">Overall.Cloud</a>.
 <br><br>
 
 <div>
